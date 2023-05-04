@@ -1,2 +1,2 @@
-# njajal.github.io
+# njajal
 deskripsi
